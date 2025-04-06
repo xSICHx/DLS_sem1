@@ -3,3 +3,4 @@ sample_photo.jpg
 MNIST
 kaggle.json
 resnet18_weights.pth
+resnet18_weights_new_sheduler.pth
