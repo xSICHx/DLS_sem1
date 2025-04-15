@@ -4,3 +4,7 @@ MNIST
 kaggle.json
 resnet18_weights.pth
 resnet18_weights_new_sheduler.pth
+for_asserts
+PH2Dataset
+segnet_checkpoints
+PH2Dataset.rar
